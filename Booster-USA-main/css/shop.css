@@ -1,0 +1,50 @@
+.shop {
+	display: flex;
+	padding-bottom: 55px;
+	flex-wrap: wrap;
+	align-content: center;
+	
+}
+
+.shop-item {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	width: 33.33%;
+	max-height: 480px;
+	min-height: 400px;
+}
+.shop-item:nth-child(1) {
+	background-image: url(../img/shop1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.shop-item:nth-child(2) {
+	background-image: url(../img/shop2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.shop-item:nth-child(3) {
+	background-image: url(../img/shop3.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.shop-item h4 {
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+.shop-item p {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 23px;
+	text-align: center;
+
+	color: #FFFFFF;
+}
+

@@ -1,0 +1,27 @@
+.positive {
+	background-color: #000;
+	display: flex;
+	justify-content: space-between;
+	color: #fff;
+	padding: 15px 30px 35px 30px;
+	text-align: center;
+}
+
+.positive img {
+	height: 87px;
+	width: 87px;
+}
+
+.positive h3 {
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 36px;
+	padding: 5px 0px 25px 0px;
+}
+
+.positive p {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 22px;
+	width: 97.5%;
+}

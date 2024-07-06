@@ -1,0 +1,58 @@
+
+.hero {
+	background-image: url(../img/hero-bg.jpg);
+	background-position: center;
+	height: 100%;
+	background-size: cover;
+	height: 1000px;
+}
+.hero-title {
+	font-family: 'Roboto';
+	font-weight: 400;
+	font-size: 44px;
+	text-align: center;
+	padding-top: 53px;
+	padding-bottom: 14px;
+}
+.hero-text {
+	font-family: 'Roboto';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: center;
+	letter-spacing: 1px;
+	padding-bottom: 22px;
+}
+.hero__btns {
+	display: flex;
+	justify-content: space-between;
+	max-width: 490px;
+	margin: 0 auto;
+}
+
+
+
+.hero__footer {
+	background-color: #000;
+}
+
+.hero__footer-wrapper {
+	display: flex;
+	justify-content: space-between;
+	padding: 18px;
+	flex-wrap: wrap;
+}
+.hero__footer-img:not(:last-child) {
+
+}
+/* .hero__footer-img:first-child {
+	height: 31px;
+}
+.hero__footer-img:nth-child(2) {
+	height: 48px;
+}
+.hero__footer-img:nth-child(3) {
+	height: 41px;
+}
+.hero__footer-img:nth-child(4) {
+	height: 33px;
+} */

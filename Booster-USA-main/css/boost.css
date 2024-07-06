@@ -1,0 +1,26 @@
+.boost__wrapper {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 45px;
+	padding-bottom: 45px;
+}
+.boost__text {
+	margin-left: 20px;
+}
+
+.boost__wrapper img {
+	width: 31%;
+}
+.boost__title {
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 38px;
+	padding-top: 65px;
+	color: #000000;
+}
+
+.boost__txt {
+	line-height: 22px;
+	margin: 21px 0 18px 0px;
+	max-width: 370px;
+}

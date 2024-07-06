@@ -1,0 +1,24 @@
+.footer__wrapper {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 20px;
+	flex-wrap: wrap;
+}
+.footer p {
+	width: 45%;
+}
+
+.footer__card {
+	text-align: right;
+	width: 45%;
+}
+.footer__card:not(:last-child) {
+	margin-right: 4px;
+}
+
+.footer p span {
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 19px;
+	color: #FF4A32;
+}

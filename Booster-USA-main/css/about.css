@@ -1,0 +1,41 @@
+.about {
+	display: flex;
+	justify-content: space-between;
+	padding: 50px 130px 50px 130px;
+	background: #F7F7F7;
+}
+.about__logo{
+	margin-right: 240px;
+}
+.about__logo img {
+	max-width: 160px;
+}
+.about__list {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+.about__list h5, .about__text-title {
+	margin-bottom: 10px;
+	font-weight: 400;
+	font-size: 1.5rem;
+	color: #000000;
+}
+
+.about__list a {
+	font-weight: 400;
+	font-size: 1rem;
+	line-height: 21px;
+}
+.about__text {
+	width: 30%;
+}
+.about__text-par-first {
+	margin-bottom: 20px;
+}
+
+.about__text p {
+	font-weight: 400;
+	font-size: 0.9rem;
+	line-height: 21px;
+}

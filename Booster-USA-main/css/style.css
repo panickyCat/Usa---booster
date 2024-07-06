@@ -1,0 +1,38 @@
+.a-reset {
+	text-decoration: none;
+}
+.btn-reset {
+	background: transparent;
+}
+
+.btn {
+	background-color: var(--accent-color);
+	padding: 15px 47px;
+	border-radius: 35px;
+
+	font-family: 'Roboto';
+	font-weight: 400;
+	font-size: 15px;
+	text-align: center;
+	color: #fff;
+}
+.container {
+	width: 100%;
+	max-width: 1180px;
+	margin: 0 auto;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.container-fluid {
+	width: 100%;
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+.txt {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 19px;
+	letter-spacing: 1px;
+}
+

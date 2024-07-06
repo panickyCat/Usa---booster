@@ -1,0 +1,30 @@
+.CTA {
+	background-image: url(../img/scaters.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 736px;
+}
+
+.CTA__title {
+	font-weight: 700;
+	font-size: 45px;
+	text-align: center;
+	color: #000000;
+}
+.CTA__sup-title {
+	text-align: center;
+	padding-top: 44px;
+	padding-bottom: 11px;
+}
+.CTA__txt {
+	margin: 0 auto;
+	text-align: center;
+	max-width: 488px;
+	padding: 15px 20px 20px 20px;
+}
+
+.CTA__btn {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
